@@ -1,0 +1,1904 @@
+[
+ {
+   "asset": "A1KA34"
+ },
+ {
+   "asset": "A1MD34"
+ },
+ {
+   "asset": "AALL34"
+ },
+ {
+   "asset": "AALR3"
+ },
+ {
+   "asset": "AAPL34"
+ },
+ {
+   "asset": "ABCB4"
+ },
+ {
+   "asset": "ABCP11"
+ },
+ {
+   "asset": "ABEV3"
+ },
+ {
+   "asset": "ADBE34"
+ },
+ {
+   "asset": "ADHM3"
+ },
+ {
+   "asset": "ADPR34"
+ },
+ {
+   "asset": "AFLT3"
+ },
+ {
+   "asset": "AGRO3"
+ },
+ {
+   "asset": "ALMI11"
+ },
+ {
+   "asset": "ALPA3"
+ },
+ {
+   "asset": "ALPA4"
+ },
+ {
+   "asset": "ALSO3"
+ },
+ {
+   "asset": "ALUP11"
+ },
+ {
+   "asset": "ALUP3"
+ },
+ {
+   "asset": "ALUP4"
+ },
+ {
+   "asset": "ALZR11"
+ },
+ {
+   "asset": "AMAR3"
+ },
+ {
+   "asset": "AMGN34"
+ },
+ {
+   "asset": "AMZO34"
+ },
+ {
+   "asset": "ANIM3"
+ },
+ {
+   "asset": "APER3"
+ },
+ {
+   "asset": "ARRI11"
+ },
+ {
+   "asset": "ARZZ3"
+ },
+ {
+   "asset": "ATMP3"
+ },
+ {
+   "asset": "ATOM3"
+ },
+ {
+   "asset": "ATTB34"
+ },
+ {
+   "asset": "AVGO34"
+ },
+ {
+   "asset": "AXPB34"
+ },
+ {
+   "asset": "AZEV3"
+ },
+ {
+   "asset": "AZEV4"
+ },
+ {
+   "asset": "AZUL4"
+ },
+ {
+   "asset": "B1MR34"
+ },
+ {
+   "asset": "B3SA3"
+ },
+ {
+   "asset": "BABA34"
+ },
+ {
+   "asset": "BAHI3"
+ },
+ {
+   "asset": "BALM4"
+ },
+ {
+   "asset": "BARI11"
+ },
+ {
+   "asset": "BAUH4"
+ },
+ {
+   "asset": "BAZA3"
+ },
+ {
+   "asset": "BBAS3"
+ },
+ {
+   "asset": "BBDC3"
+ },
+ {
+   "asset": "BBDC4"
+ },
+ {
+   "asset": "BBFI11B"
+ },
+ {
+   "asset": "BBPO11"
+ },
+ {
+   "asset": "BBRC11"
+ },
+ {
+   "asset": "BBRK3"
+ },
+ {
+   "asset": "BBSD11"
+ },
+ {
+   "asset": "BBSE3"
+ },
+ {
+   "asset": "BBVJ11"
+ },
+ {
+   "asset": "BCFF11"
+ },
+ {
+   "asset": "BCIA11"
+ },
+ {
+   "asset": "BCRI11"
+ },
+ {
+   "asset": "BCSA34"
+ },
+ {
+   "asset": "BDLL4"
+ },
+ {
+   "asset": "BEEF11"
+ },
+ {
+   "asset": "BEEF3"
+ },
+ {
+   "asset": "BEES3"
+ },
+ {
+   "asset": "BEES4"
+ },
+ {
+   "asset": "BERK34"
+ },
+ {
+   "asset": "BGIP4"
+ },
+ {
+   "asset": "BICR11"
+ },
+ {
+   "asset": "BIDI11"
+ },
+ {
+   "asset": "BIDI3"
+ },
+ {
+   "asset": "BIDI4"
+ },
+ {
+   "asset": "BIIB34"
+ },
+ {
+   "asset": "BIOM11"
+ },
+ {
+   "asset": "BIOM3"
+ },
+ {
+   "asset": "BKBR3"
+ },
+ {
+   "asset": "BKNG34"
+ },
+ {
+   "asset": "BMEB3"
+ },
+ {
+   "asset": "BMEB4"
+ },
+ {
+   "asset": "BMGB4"
+ },
+ {
+   "asset": "BMIN4"
+ },
+ {
+   "asset": "BMKS3"
+ },
+ {
+   "asset": "BMLC11B"
+ },
+ {
+   "asset": "BMYB34"
+ },
+ {
+   "asset": "BNBR3"
+ },
+ {
+   "asset": "BNFS11"
+ },
+ {
+   "asset": "BOAC34"
+ },
+ {
+   "asset": "BOBR4"
+ },
+ {
+   "asset": "BOVA11"
+ },
+ {
+   "asset": "BOVB11"
+ },
+ {
+   "asset": "BOVV11"
+ },
+ {
+   "asset": "BPAC11"
+ },
+ {
+   "asset": "BPAC3"
+ },
+ {
+   "asset": "BPAC5"
+ },
+ {
+   "asset": "BPAN4"
+ },
+ {
+   "asset": "BPFF11"
+ },
+ {
+   "asset": "BPML11"
+ },
+ {
+   "asset": "BPRP11"
+ },
+ {
+   "asset": "BRAP3"
+ },
+ {
+   "asset": "BRAP4"
+ },
+ {
+   "asset": "BRAX11"
+ },
+ {
+   "asset": "BRCO11"
+ },
+ {
+   "asset": "BRCR11"
+ },
+ {
+   "asset": "BRDT3"
+ },
+ {
+   "asset": "BRFS3"
+ },
+ {
+   "asset": "BRIV4"
+ },
+ {
+   "asset": "BRKM3"
+ },
+ {
+   "asset": "BRKM5"
+ },
+ {
+   "asset": "BRML3"
+ },
+ {
+   "asset": "BRPR3"
+ },
+ {
+   "asset": "BRSR3"
+ },
+ {
+   "asset": "BRSR6"
+ },
+ {
+   "asset": "BRZP11"
+ },
+ {
+   "asset": "BSEV3"
+ },
+ {
+   "asset": "BTCR11"
+ },
+ {
+   "asset": "BTLG11"
+ },
+ {
+   "asset": "BTOW3"
+ },
+ {
+   "asset": "BTTL3"
+ },
+ {
+   "asset": "C1CL34"
+ },
+ {
+   "asset": "C1HR34"
+ },
+ {
+   "asset": "CAMB3"
+ },
+ {
+   "asset": "CAML3"
+ },
+ {
+   "asset": "CARD3"
+ },
+ {
+   "asset": "CARE11"
+ },
+ {
+   "asset": "CBEE3"
+ },
+ {
+   "asset": "CBOP11"
+ },
+ {
+   "asset": "CCPR3"
+ },
+ {
+   "asset": "CCRO3"
+ },
+ {
+   "asset": "CEAB3"
+ },
+ {
+   "asset": "CEDO4"
+ },
+ {
+   "asset": "CEEB3"
+ },
+ {
+   "asset": "CEOC11"
+ },
+ {
+   "asset": "CESP3"
+ },
+ {
+   "asset": "CESP5"
+ },
+ {
+   "asset": "CESP6"
+ },
+ {
+   "asset": "CGAS5"
+ },
+ {
+   "asset": "CGRA3"
+ },
+ {
+   "asset": "CGRA4"
+ },
+ {
+   "asset": "CHKE34"
+ },
+ {
+   "asset": "CHVX34"
+ },
+ {
+   "asset": "CIEL3"
+ },
+ {
+   "asset": "CLSC4"
+ },
+ {
+   "asset": "CMCS34"
+ },
+ {
+   "asset": "CMIG3"
+ },
+ {
+   "asset": "CMIG4"
+ },
+ {
+   "asset": "CNES11"
+ },
+ {
+   "asset": "CNTO3"
+ },
+ {
+   "asset": "COCA34"
+ },
+ {
+   "asset": "COCE5"
+ },
+ {
+   "asset": "COGN3"
+ },
+ {
+   "asset": "COWC34"
+ },
+ {
+   "asset": "CPFE3"
+ },
+ {
+   "asset": "CPFF11"
+ },
+ {
+   "asset": "CPLE3"
+ },
+ {
+   "asset": "CPLE6"
+ },
+ {
+   "asset": "CPRE3"
+ },
+ {
+   "asset": "CPTS11B"
+ },
+ {
+   "asset": "CRDE3"
+ },
+ {
+   "asset": "CRFB3"
+ },
+ {
+   "asset": "CRFF11"
+ },
+ {
+   "asset": "CRPG5"
+ },
+ {
+   "asset": "CRPG6"
+ },
+ {
+   "asset": "CSAN3"
+ },
+ {
+   "asset": "CSMG3"
+ },
+ {
+   "asset": "CSNA3"
+ },
+ {
+   "asset": "CSRN3"
+ },
+ {
+   "asset": "CTGP34"
+ },
+ {
+   "asset": "CTNM3"
+ },
+ {
+   "asset": "CTNM4"
+ },
+ {
+   "asset": "CTSA3"
+ },
+ {
+   "asset": "CTSA4"
+ },
+ {
+   "asset": "CTXT11"
+ },
+ {
+   "asset": "CVBI11"
+ },
+ {
+   "asset": "CVCB3"
+ },
+ {
+   "asset": "CVSH34"
+ },
+ {
+   "asset": "CXCE11B"
+ },
+ {
+   "asset": "CXRI11"
+ },
+ {
+   "asset": "CYRE3"
+ },
+ {
+   "asset": "DASA3"
+ },
+ {
+   "asset": "DDNB34"
+ },
+ {
+   "asset": "DIRR3"
+ },
+ {
+   "asset": "DISB34"
+ },
+ {
+   "asset": "DIVO11"
+ },
+ {
+   "asset": "DMAC11"
+ },
+ {
+   "asset": "DMMO11"
+ },
+ {
+   "asset": "DMMO3"
+ },
+ {
+   "asset": "DOHL4"
+ },
+ {
+   "asset": "DRIT11B"
+ },
+ {
+   "asset": "DTCY3"
+ },
+ {
+   "asset": "DTEX3"
+ },
+ {
+   "asset": "EALT4"
+ },
+ {
+   "asset": "ECOO11"
+ },
+ {
+   "asset": "ECOR3"
+ },
+ {
+   "asset": "EDFO11B"
+ },
+ {
+   "asset": "EDGA11"
+ },
+ {
+   "asset": "EGIE3"
+ },
+ {
+   "asset": "EKTR4"
+ },
+ {
+   "asset": "ELET3"
+ },
+ {
+   "asset": "ELET6"
+ },
+ {
+   "asset": "EMAE4"
+ },
+ {
+   "asset": "EMBR3"
+ },
+ {
+   "asset": "ENAT3"
+ },
+ {
+   "asset": "ENBR3"
+ },
+ {
+   "asset": "ENEV3"
+ },
+ {
+   "asset": "ENGI11"
+ },
+ {
+   "asset": "ENGI3"
+ },
+ {
+   "asset": "ENGI4"
+ },
+ {
+   "asset": "ENMT3"
+ },
+ {
+   "asset": "ENMT4"
+ },
+ {
+   "asset": "EQIX34"
+ },
+ {
+   "asset": "EQPA3"
+ },
+ {
+   "asset": "EQPA5"
+ },
+ {
+   "asset": "EQPA7"
+ },
+ {
+   "asset": "EQTL3"
+ },
+ {
+   "asset": "ETER3"
+ },
+ {
+   "asset": "EUCA3"
+ },
+ {
+   "asset": "EUCA4"
+ },
+ {
+   "asset": "EURO11"
+ },
+ {
+   "asset": "EVEN3"
+ },
+ {
+   "asset": "EXXO34"
+ },
+ {
+   "asset": "EZTC3"
+ },
+ {
+   "asset": "F1NI34"
+ },
+ {
+   "asset": "FAED11"
+ },
+ {
+   "asset": "FAMB11B"
+ },
+ {
+   "asset": "FBOK34"
+ },
+ {
+   "asset": "FCCQ11"
+ },
+ {
+   "asset": "FCFL11"
+ },
+ {
+   "asset": "FESA4"
+ },
+ {
+   "asset": "FEXC11"
+ },
+ {
+   "asset": "FHER3"
+ },
+ {
+   "asset": "FIGS11"
+ },
+ {
+   "asset": "FIIB11"
+ },
+ {
+   "asset": "FIIP11B"
+ },
+ {
+   "asset": "FIND11"
+ },
+ {
+   "asset": "FIVN11"
+ },
+ {
+   "asset": "FLMA11"
+ },
+ {
+   "asset": "FLRP11"
+ },
+ {
+   "asset": "FLRY3"
+ },
+ {
+   "asset": "FNAM11"
+ },
+ {
+   "asset": "FNOR11"
+ },
+ {
+   "asset": "FRAS3"
+ },
+ {
+   "asset": "FRTA3"
+ },
+ {
+   "asset": "FSRF11"
+ },
+ {
+   "asset": "FSTU11"
+ },
+ {
+   "asset": "FVBI11"
+ },
+ {
+   "asset": "FVPQ11"
+ },
+ {
+   "asset": "G1WW34"
+ },
+ {
+   "asset": "GBIO33"
+ },
+ {
+   "asset": "GEOO34"
+ },
+ {
+   "asset": "GEPA3"
+ },
+ {
+   "asset": "GEPA4"
+ },
+ {
+   "asset": "GFSA3"
+ },
+ {
+   "asset": "GGBR3"
+ },
+ {
+   "asset": "GGBR4"
+ },
+ {
+   "asset": "GGRC11"
+ },
+ {
+   "asset": "GILD34"
+ },
+ {
+   "asset": "GNDI3"
+ },
+ {
+   "asset": "GOAU3"
+ },
+ {
+   "asset": "GOAU4"
+ },
+ {
+   "asset": "GOGL34"
+ },
+ {
+   "asset": "GOGL35"
+ },
+ {
+   "asset": "GOLL11"
+ },
+ {
+   "asset": "GOLL4"
+ },
+ {
+   "asset": "GPCP3"
+ },
+ {
+   "asset": "GPIV33"
+ },
+ {
+   "asset": "GPRO34"
+ },
+ {
+   "asset": "GRLV11"
+ },
+ {
+   "asset": "GRND3"
+ },
+ {
+   "asset": "GSFI11"
+ },
+ {
+   "asset": "GTWR11"
+ },
+ {
+   "asset": "GUAR3"
+ },
+ {
+   "asset": "HABT11"
+ },
+ {
+   "asset": "HAGA4"
+ },
+ {
+   "asset": "HAPV3"
+ },
+ {
+   "asset": "HBOR3"
+ },
+ {
+   "asset": "HCRI11"
+ },
+ {
+   "asset": "HCTR11"
+ },
+ {
+   "asset": "HETA4"
+ },
+ {
+   "asset": "HFOF11"
+ },
+ {
+   "asset": "HGBS11"
+ },
+ {
+   "asset": "HGCR11"
+ },
+ {
+   "asset": "HGFF11"
+ },
+ {
+   "asset": "HGLG11"
+ },
+ {
+   "asset": "HGPO11"
+ },
+ {
+   "asset": "HGRE11"
+ },
+ {
+   "asset": "HGRU11"
+ },
+ {
+   "asset": "HGTX3"
+ },
+ {
+   "asset": "HLOG11"
+ },
+ {
+   "asset": "HMOC11"
+ },
+ {
+   "asset": "HOME34"
+ },
+ {
+   "asset": "HONB34"
+ },
+ {
+   "asset": "HOOT4"
+ },
+ {
+   "asset": "HOSI11"
+ },
+ {
+   "asset": "HPDP11"
+ },
+ {
+   "asset": "HRDF11"
+ },
+ {
+   "asset": "HSML11"
+ },
+ {
+   "asset": "HTMX11"
+ },
+ {
+   "asset": "HUSC11"
+ },
+ {
+   "asset": "HYPE3"
+ },
+ {
+   "asset": "I1NF34"
+ },
+ {
+   "asset": "IBFF11"
+ },
+ {
+   "asset": "IDNT3"
+ },
+ {
+   "asset": "IDVL3"
+ },
+ {
+   "asset": "IDVL4"
+ },
+ {
+   "asset": "IGBR3"
+ },
+ {
+   "asset": "IGTA3"
+ },
+ {
+   "asset": "INEP3"
+ },
+ {
+   "asset": "INEP4"
+ },
+ {
+   "asset": "IRBR3"
+ },
+ {
+   "asset": "IRDM11"
+ },
+ {
+   "asset": "ISUS11"
+ },
+ {
+   "asset": "ITLC34"
+ },
+ {
+   "asset": "ITSA3"
+ },
+ {
+   "asset": "ITSA4"
+ },
+ {
+   "asset": "ITUB3"
+ },
+ {
+   "asset": "ITUB4"
+ },
+ {
+   "asset": "IVVB11"
+ },
+ {
+   "asset": "JBDU3"
+ },
+ {
+   "asset": "JBDU4"
+ },
+ {
+   "asset": "JBSS3"
+ },
+ {
+   "asset": "JCPC34"
+ },
+ {
+   "asset": "JFEN3"
+ },
+ {
+   "asset": "JHSF3"
+ },
+ {
+   "asset": "JNJB34"
+ },
+ {
+   "asset": "JPMC34"
+ },
+ {
+   "asset": "JPSA3"
+ },
+ {
+   "asset": "JRDM11"
+ },
+ {
+   "asset": "JSLG3"
+ },
+ {
+   "asset": "JSRE11"
+ },
+ {
+   "asset": "KEPL3"
+ },
+ {
+   "asset": "KFOF11"
+ },
+ {
+   "asset": "KHCB34"
+ },
+ {
+   "asset": "KINP11"
+ },
+ {
+   "asset": "KLBN11"
+ },
+ {
+   "asset": "KLBN3"
+ },
+ {
+   "asset": "KLBN4"
+ },
+ {
+   "asset": "KNCR11"
+ },
+ {
+   "asset": "KNHY11"
+ },
+ {
+   "asset": "KNIP11"
+ },
+ {
+   "asset": "KNRE11"
+ },
+ {
+   "asset": "KNRI11"
+ },
+ {
+   "asset": "LAME3"
+ },
+ {
+   "asset": "LAME4"
+ },
+ {
+   "asset": "LCAM3"
+ },
+ {
+   "asset": "LEVE3"
+ },
+ {
+   "asset": "LGCP11"
+ },
+ {
+   "asset": "LIGT3"
+ },
+ {
+   "asset": "LINX3"
+ },
+ {
+   "asset": "LLIS3"
+ },
+ {
+   "asset": "LOGG3"
+ },
+ {
+   "asset": "LOGN3"
+ },
+ {
+   "asset": "LPSB3"
+ },
+ {
+   "asset": "LREN3"
+ },
+ {
+   "asset": "LUGG11"
+ },
+ {
+   "asset": "LUPA3"
+ },
+ {
+   "asset": "LVBI11"
+ },
+ {
+   "asset": "LWSA3"
+ },
+ {
+   "asset": "M1NS34"
+ },
+ {
+   "asset": "M1PC34"
+ },
+ {
+   "asset": "MALL11"
+ },
+ {
+   "asset": "MATB11"
+ },
+ {
+   "asset": "MAXR11"
+ },
+ {
+   "asset": "MBRF11"
+ },
+ {
+   "asset": "MCCI11"
+ },
+ {
+   "asset": "MCDC34"
+ },
+ {
+   "asset": "MDIA3"
+ },
+ {
+   "asset": "MDNE3"
+ },
+ {
+   "asset": "MEAL3"
+ },
+ {
+   "asset": "MELI34"
+ },
+ {
+   "asset": "MERC4"
+ },
+ {
+   "asset": "MFII11"
+ },
+ {
+   "asset": "MGEL4"
+ },
+ {
+   "asset": "MGFF11"
+ },
+ {
+   "asset": "MGLU3"
+ },
+ {
+   "asset": "MILS3"
+ },
+ {
+   "asset": "MMXM11"
+ },
+ {
+   "asset": "MMXM3"
+ },
+ {
+   "asset": "MNDL3"
+ },
+ {
+   "asset": "MNPR3"
+ },
+ {
+   "asset": "MOVI3"
+ },
+ {
+   "asset": "MRFG3"
+ },
+ {
+   "asset": "MRVE3"
+ },
+ {
+   "asset": "MSCD34"
+ },
+ {
+   "asset": "MSFT34"
+ },
+ {
+   "asset": "MTRE3"
+ },
+ {
+   "asset": "MTSA4"
+ },
+ {
+   "asset": "MULT3"
+ },
+ {
+   "asset": "MWET4"
+ },
+ {
+   "asset": "MXRF11"
+ },
+ {
+   "asset": "MYPK3"
+ },
+ {
+   "asset": "N1CL34"
+ },
+ {
+   "asset": "N1EM34"
+ },
+ {
+   "asset": "NEOE3"
+ },
+ {
+   "asset": "NETE34"
+ },
+ {
+   "asset": "NEWL11"
+ },
+ {
+   "asset": "NEWU11"
+ },
+ {
+   "asset": "NFLX34"
+ },
+ {
+   "asset": "NSLU11"
+ },
+ {
+   "asset": "NTCO3"
+ },
+ {
+   "asset": "NVDC34"
+ },
+ {
+   "asset": "NVHO11"
+ },
+ {
+   "asset": "ODPV3"
+ },
+ {
+   "asset": "OFSA3"
+ },
+ {
+   "asset": "OIBR3"
+ },
+ {
+   "asset": "OIBR4"
+ },
+ {
+   "asset": "OMGE3"
+ },
+ {
+   "asset": "ONEF11"
+ },
+ {
+   "asset": "OSXB3"
+ },
+ {
+   "asset": "OUCY11"
+ },
+ {
+   "asset": "OUFF11"
+ },
+ {
+   "asset": "OUJP11"
+ },
+ {
+   "asset": "OULG11"
+ },
+ {
+   "asset": "PABY11"
+ },
+ {
+   "asset": "PARD3"
+ },
+ {
+   "asset": "PATC11"
+ },
+ {
+   "asset": "PATI3"
+ },
+ {
+   "asset": "PATI4"
+ },
+ {
+   "asset": "PCAR3"
+ },
+ {
+   "asset": "PDGR3"
+ },
+ {
+   "asset": "PEPB34"
+ },
+ {
+   "asset": "PETR3"
+ },
+ {
+   "asset": "PETR4"
+ },
+ {
+   "asset": "PFIN11"
+ },
+ {
+   "asset": "PFIZ34"
+ },
+ {
+   "asset": "PFRM3"
+ },
+ {
+   "asset": "PGCO34"
+ },
+ {
+   "asset": "PIBB11"
+ },
+ {
+   "asset": "PINE4"
+ },
+ {
+   "asset": "PLAS3"
+ },
+ {
+   "asset": "PLCR11"
+ },
+ {
+   "asset": "PLRI11"
+ },
+ {
+   "asset": "PMAM3"
+ },
+ {
+   "asset": "PNVL3"
+ },
+ {
+   "asset": "PNVL4"
+ },
+ {
+   "asset": "POMO3"
+ },
+ {
+   "asset": "POMO4"
+ },
+ {
+   "asset": "PORD11"
+ },
+ {
+   "asset": "POSI3"
+ },
+ {
+   "asset": "PPLA11"
+ },
+ {
+   "asset": "PQDP11"
+ },
+ {
+   "asset": "PRIO3"
+ },
+ {
+   "asset": "PRNR3"
+ },
+ {
+   "asset": "PRSN11B"
+ },
+ {
+   "asset": "PSSA3"
+ },
+ {
+   "asset": "PSVM11"
+ },
+ {
+   "asset": "PTBL3"
+ },
+ {
+   "asset": "PTNT4"
+ },
+ {
+   "asset": "QAGR11"
+ },
+ {
+   "asset": "QCOM34"
+ },
+ {
+   "asset": "QUAL3"
+ },
+ {
+   "asset": "RADL3"
+ },
+ {
+   "asset": "RAIL3"
+ },
+ {
+   "asset": "RANI3"
+ },
+ {
+   "asset": "RANI4"
+ },
+ {
+   "asset": "RAPT3"
+ },
+ {
+   "asset": "RAPT4"
+ },
+ {
+   "asset": "RBBV11"
+ },
+ {
+   "asset": "RBCO11"
+ },
+ {
+   "asset": "RBDS11"
+ },
+ {
+   "asset": "RBED11"
+ },
+ {
+   "asset": "RBFF11"
+ },
+ {
+   "asset": "RBGS11"
+ },
+ {
+   "asset": "RBIV11"
+ },
+ {
+   "asset": "RBRD11"
+ },
+ {
+   "asset": "RBRF11"
+ },
+ {
+   "asset": "RBRF12"
+ },
+ {
+   "asset": "RBRP11"
+ },
+ {
+   "asset": "RBRR11"
+ },
+ {
+   "asset": "RBRY11"
+ },
+ {
+   "asset": "RBVA11"
+ },
+ {
+   "asset": "RBVO11"
+ },
+ {
+   "asset": "RCFA11"
+ },
+ {
+   "asset": "RCRB11"
+ },
+ {
+   "asset": "RCSL3"
+ },
+ {
+   "asset": "RCSL4"
+ },
+ {
+   "asset": "RDNI3"
+ },
+ {
+   "asset": "RDPD11"
+ },
+ {
+   "asset": "RECT11"
+ },
+ {
+   "asset": "REDE3"
+ },
+ {
+   "asset": "REGN34"
+ },
+ {
+   "asset": "RENT3"
+ },
+ {
+   "asset": "RFOF11"
+ },
+ {
+   "asset": "RLOG3"
+ },
+ {
+   "asset": "RNDP11"
+ },
+ {
+   "asset": "RNEW11"
+ },
+ {
+   "asset": "RNEW3"
+ },
+ {
+   "asset": "RNEW4"
+ },
+ {
+   "asset": "RNGO11"
+ },
+ {
+   "asset": "ROMI3"
+ },
+ {
+   "asset": "RPMG3"
+ },
+ {
+   "asset": "RSID3"
+ },
+ {
+   "asset": "RSUL4"
+ },
+ {
+   "asset": "RVBI11"
+ },
+ {
+   "asset": "S1YF34"
+ },
+ {
+   "asset": "SAAG11"
+ },
+ {
+   "asset": "SADI11"
+ },
+ {
+   "asset": "SANB11"
+ },
+ {
+   "asset": "SANB3"
+ },
+ {
+   "asset": "SANB4"
+ },
+ {
+   "asset": "SAPR11"
+ },
+ {
+   "asset": "SAPR3"
+ },
+ {
+   "asset": "SAPR4"
+ },
+ {
+   "asset": "SARE11"
+ },
+ {
+   "asset": "SBSP3"
+ },
+ {
+   "asset": "SBUB34"
+ },
+ {
+   "asset": "SCAR3"
+ },
+ {
+   "asset": "SCHW34"
+ },
+ {
+   "asset": "SCPF11"
+ },
+ {
+   "asset": "SDIL11"
+ },
+ {
+   "asset": "SDIP11"
+ },
+ {
+   "asset": "SEER3"
+ },
+ {
+   "asset": "SGPS3"
+ },
+ {
+   "asset": "SHOW3"
+ },
+ {
+   "asset": "SHPH11"
+ },
+ {
+   "asset": "SHUL4"
+ },
+ {
+   "asset": "SIMN34"
+ },
+ {
+   "asset": "SLCE3"
+ },
+ {
+   "asset": "SLED3"
+ },
+ {
+   "asset": "SLED4"
+ },
+ {
+   "asset": "SMAC11"
+ },
+ {
+   "asset": "SMAL11"
+ },
+ {
+   "asset": "SMLS3"
+ },
+ {
+   "asset": "SMTO3"
+ },
+ {
+   "asset": "SOND5"
+ },
+ {
+   "asset": "SPRI3"
+ },
+ {
+   "asset": "SPTW11"
+ },
+ {
+   "asset": "SPXI11"
+ },
+ {
+   "asset": "SQIA3"
+ },
+ {
+   "asset": "SSFO34"
+ },
+ {
+   "asset": "STBP3"
+ },
+ {
+   "asset": "SULA11"
+ },
+ {
+   "asset": "SULA3"
+ },
+ {
+   "asset": "SULA4"
+ },
+ {
+   "asset": "SUZB3"
+ },
+ {
+   "asset": "T1DG34"
+ },
+ {
+   "asset": "TAEE11"
+ },
+ {
+   "asset": "TAEE3"
+ },
+ {
+   "asset": "TAEE4"
+ },
+ {
+   "asset": "TASA13"
+ },
+ {
+   "asset": "TASA15"
+ },
+ {
+   "asset": "TASA17"
+ },
+ {
+   "asset": "TASA3"
+ },
+ {
+   "asset": "TASA4"
+ },
+ {
+   "asset": "TCNO3"
+ },
+ {
+   "asset": "TCNO4"
+ },
+ {
+   "asset": "TCSA3"
+ },
+ {
+   "asset": "TECN3"
+ },
+ {
+   "asset": "TEKA4"
+ },
+ {
+   "asset": "TELB3"
+ },
+ {
+   "asset": "TELB4"
+ },
+ {
+   "asset": "TEND3"
+ },
+ {
+   "asset": "TESA12"
+ },
+ {
+   "asset": "TESA3"
+ },
+ {
+   "asset": "TEXA34"
+ },
+ {
+   "asset": "TFOF11"
+ },
+ {
+   "asset": "TGAR11"
+ },
+ {
+   "asset": "TGMA3"
+ },
+ {
+   "asset": "TGTB34"
+ },
+ {
+   "asset": "THRA11"
+ },
+ {
+   "asset": "TIET11"
+ },
+ {
+   "asset": "TIET3"
+ },
+ {
+   "asset": "TIET4"
+ },
+ {
+   "asset": "TIMP3"
+ },
+ {
+   "asset": "TMOS34"
+ },
+ {
+   "asset": "TORD11"
+ },
+ {
+   "asset": "TOTS3"
+ },
+ {
+   "asset": "TPIS3"
+ },
+ {
+   "asset": "TRIS3"
+ },
+ {
+   "asset": "TRPL3"
+ },
+ {
+   "asset": "TRPL4"
+ },
+ {
+   "asset": "TRXF11"
+ },
+ {
+   "asset": "TSLA34"
+ },
+ {
+   "asset": "TSMC34"
+ },
+ {
+   "asset": "TSNF34"
+ },
+ {
+   "asset": "TUPY3"
+ },
+ {
+   "asset": "TWTR34"
+ },
+ {
+   "asset": "TXRX4"
+ },
+ {
+   "asset": "U1AL34"
+ },
+ {
+   "asset": "U1BE34"
+ },
+ {
+   "asset": "UBSR11"
+ },
+ {
+   "asset": "UCAS3"
+ },
+ {
+   "asset": "UGPA3"
+ },
+ {
+   "asset": "UNHH34"
+ },
+ {
+   "asset": "UNIP3"
+ },
+ {
+   "asset": "UNIP5"
+ },
+ {
+   "asset": "UNIP6"
+ },
+ {
+   "asset": "UPSS34"
+ },
+ {
+   "asset": "USIM3"
+ },
+ {
+   "asset": "USIM5"
+ },
+ {
+   "asset": "USSX34"
+ },
+ {
+   "asset": "VALE3"
+ },
+ {
+   "asset": "VCJR11"
+ },
+ {
+   "asset": "VERZ34"
+ },
+ {
+   "asset": "VGIP11"
+ },
+ {
+   "asset": "VGIR11"
+ },
+ {
+   "asset": "VIGT11"
+ },
+ {
+   "asset": "VILG11"
+ },
+ {
+   "asset": "VINO11"
+ },
+ {
+   "asset": "VISA34"
+ },
+ {
+   "asset": "VISC11"
+ },
+ {
+   "asset": "VIVA3"
+ },
+ {
+   "asset": "VIVR3"
+ },
+ {
+   "asset": "VIVT3"
+ },
+ {
+   "asset": "VIVT4"
+ },
+ {
+   "asset": "VLID3"
+ },
+ {
+   "asset": "VLOL11"
+ },
+ {
+   "asset": "VOTS11"
+ },
+ {
+   "asset": "VRTA11"
+ },
+ {
+   "asset": "VSHO11"
+ },
+ {
+   "asset": "VTLT11"
+ },
+ {
+   "asset": "VULC3"
+ },
+ {
+   "asset": "VVAR3"
+ },
+ {
+   "asset": "VVPR11"
+ },
+ {
+   "asset": "WALM34"
+ },
+ {
+   "asset": "WEGE3"
+ },
+ {
+   "asset": "WFCO34"
+ },
+ {
+   "asset": "WHRL3"
+ },
+ {
+   "asset": "WHRL4"
+ },
+ {
+   "asset": "WIZS3"
+ },
+ {
+   "asset": "WLMM4"
+ },
+ {
+   "asset": "WPLZ11"
+ },
+ {
+   "asset": "WSON33"
+ },
+ {
+   "asset": "XBOV11"
+ },
+ {
+   "asset": "XPCI11"
+ },
+ {
+   "asset": "XPCM11"
+ },
+ {
+   "asset": "XPHT11"
+ },
+ {
+   "asset": "XPHT12"
+ },
+ {
+   "asset": "XPIE11"
+ },
+ {
+   "asset": "XPIN11"
+ },
+ {
+   "asset": "XPLG11"
+ },
+ {
+   "asset": "XPML11"
+ },
+ {
+   "asset": "XPOM11"
+ },
+ {
+   "asset": "XPPR11"
+ },
+ {
+   "asset": "XPSF11"
+ },
+ {
+   "asset": "XTED11"
+ },
+ {
+   "asset": "YCHY11"
+ },
+ {
+   "asset": "YDUQ3"
+ }
+]

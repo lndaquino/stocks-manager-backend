@@ -2,7 +2,7 @@ import {
   Entity,
   Column,
   PrimaryGeneratedColumn,
-  CreateDateColumn,
+  UpdateDateColumn,
   ManyToOne,
   JoinColumn,
 } from 'typeorm';
@@ -10,8 +10,8 @@ import {
 import Users from './Users';
 import Assets from './Assets';
 
-@Entity('transactions')
-class Transaction {
+@Entity('balances')
+class Balances {
   @PrimaryGeneratedColumn('uuid')
   id: string;
 
@@ -25,33 +25,24 @@ class Transaction {
   @Column()
   asset_id: string;
 
-  @ManyToOne(() => Assets, asset => asset.transaction, { eager: true })
+  @ManyToOne(() => Assets, asset => asset.balance, { eager: true })
   @JoinColumn({ name: 'asset_id' })
   asset: Assets;
 
   @Column()
-  type: 'buy' | 'sell';
-
-  @Column('timestamp with time zone')
-  date: Date;
-
-  @Column()
-  quantity: number;
-
-  @Column()
-  value: number;
-
-  @Column()
-  cost: number;
+  total_quantity: number;
 
   @Column()
   total_value: number;
 
   @Column()
-  closed_id: string;
+  total_invested: number;
 
-  @CreateDateColumn()
-  created_at: Date;
+  @Column()
+  profit: number;
+
+  @UpdateDateColumn()
+  updated_at: Date;
 }
 
-export default Transaction;
+export default Balances;
