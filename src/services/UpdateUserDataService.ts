@@ -9,7 +9,7 @@ interface Request {
   name: string;
   email: string;
   password: string;
-  new_password: string;
+  new_password?: string;
 }
 
 class UpdateUserDataService {
@@ -17,7 +17,7 @@ class UpdateUserDataService {
     user_id,
     name,
     email,
-    new_password,
+    new_password = null,
     password,
   }: Request): Promise<User> {
     const usersRepository = getRepository(User);

@@ -23,6 +23,11 @@ class GetStatementClosedTrades {
     if (!statement.length)
       throw new AppError('Error setting asset or user id.');
 
+    // descendent sorting
+    statement.sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
+    );
+
     const parsedStatement = statement.map(item => {
       const { date } = item;
       const year = getYear(date);

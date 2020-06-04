@@ -44,8 +44,14 @@ class GetStatementService {
 
     const asset = {
       ticker: balance.asset.ticker,
-      wallet: balance.total_value,
+      wallet: balance.total_quantity * balance.asset.cotation,
       profit: balance.profit,
+      cotation: balance.asset.cotation,
+      total_quantity: balance.total_quantity,
+      current_profit:
+        (balance.asset.cotation -
+          balance.total_value / balance.total_quantity) *
+        balance.total_quantity,
     };
 
     const parsedResponse = { statement: parsedStatement, asset };

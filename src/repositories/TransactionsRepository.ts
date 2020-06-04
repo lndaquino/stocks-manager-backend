@@ -33,6 +33,7 @@ class TransactionsRepository extends Repository<Transaction> {
     transactions: Transaction[],
     config: ConfigRequest,
   ): Balance {
+    // ascendent sorting
     transactions.sort(
       (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime(),
     );

@@ -26,7 +26,8 @@ class CreateTransactionService {
     type,
     date,
   }: Request): Promise<Transaction> {
-    const total_value = quantity * value + cost;
+    const total_value =
+      type === 'buy' ? quantity * value + cost : quantity * value - cost;
     // if buy and don´t have balance create transaction and balance
     // if buy and have balance create transaction and redo weighted balance
     // if sell and have balance redo weigthed balance.

@@ -1,6 +1,7 @@
 import path from 'path';
 import handlebars from 'handlebars';
 import nodemailer, { Transporter } from 'nodemailer';
+import aws from 'aws-sdk';
 import fs from 'fs';
 import { getRepository, getCustomRepository } from 'typeorm';
 import AppError from '../errors/AppError';
@@ -30,6 +31,7 @@ interface SendMailDTO {
   from?: MailContact;
   subject: string;
   templateData: ParseMailTemplateDTO;
+  provider: 'ethereal' | 'ses';
 }
 
 class SendForgotEmailPasswordService {
@@ -53,36 +55,60 @@ class SendForgotEmailPasswordService {
     subject,
     from,
     templateData,
+    provider,
   }: SendMailDTO): Promise<void> {
-    const account = await nodemailer.createTestAccount();
+    if (provider === 'ethereal') {
+      const account = await nodemailer.createTestAccount();
 
-    const transporter = nodemailer.createTransport({
-      host: account.smtp.host,
-      port: account.smtp.port,
-      secure: account.smtp.secure,
-      auth: {
-        user: account.user,
-        pass: account.pass,
-      },
-    });
+      const transporter = nodemailer.createTransport({
+        host: account.smtp.host,
+        port: account.smtp.port,
+        secure: account.smtp.secure,
+        auth: {
+          user: account.user,
+          pass: account.pass,
+        },
+      });
 
-    console.log('nodemailer');
+      console.log('nodemailer');
 
-    const message = await transporter.sendMail({
-      from: {
-        name: from?.name || 'Equipe StocksLife',
-        address: from?.email || 'equipe@stockslife.com',
-      },
-      to: {
-        name: to.name,
-        address: to.email,
-      },
-      subject: 'Recuperação de senha',
-      html: await this.parseEmail(templateData),
-    });
+      const message = await transporter.sendMail({
+        from: {
+          name: from?.name || 'Equipe StocksLife',
+          address: from?.email || 'equipe@stockslife.com',
+        },
+        to: {
+          name: to.name,
+          address: to.email,
+        },
+        subject: 'Recuperação de senha',
+        html: await this.parseEmail(templateData),
+      });
 
-    console.log('Message sent: %s', message.messageId);
-    console.log('Preview URL: %s', nodemailer.getTestMessageUrl(message));
+      console.log('Message sent: %s', message.messageId);
+      console.log('Preview URL: %s', nodemailer.getTestMessageUrl(message));
+    } else {
+      const transporter = nodemailer.createTransport({
+        SES: new aws.SES({
+          apiVersion: '2010-12-01',
+          region: process.env.AWS_SES_REGION,
+        }),
+      });
+
+      const message = await transporter.sendMail({
+        from: {
+          name: from?.name || 'Equipe StocksLife',
+          address: from?.email || 'lucas@stockslife.biz',
+        },
+        to: {
+          name: to.name,
+          address: to.email,
+        },
+        subject: 'Recuperação de senha',
+        html: await this.parseEmail(templateData),
+      });
+      console.log(message);
+    }
   }
 
   public async run({ email }: Request): Promise<void> {
@@ -108,6 +134,7 @@ class SendForgotEmailPasswordService {
     );
 
     await this.sendMail({
+      provider: 'ethereal', // ethereal or ses
       to: {
         name: user.name,
         email: user.email,
@@ -117,7 +144,7 @@ class SendForgotEmailPasswordService {
         file: forgotPasswordTemplate,
         variables: {
           name: user.name,
-          link: `http://localhost:3000/reset_password/${token}`,
+          link: `${process.env.APP_WEB_URL}/reset_password/${token}`,
         },
       },
     });
